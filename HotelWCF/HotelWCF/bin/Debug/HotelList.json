@@ -1,0 +1,41 @@
+[
+
+{
+
+"HotelId": 1,
+
+"HotelName": "Novotel",
+
+"HotelAddress": "Pune",
+
+"StarRating": 5,
+
+},
+
+{
+
+"HotelId": 2,
+
+"HotelName": "Hyatt",
+
+"HotelAddress": "Pune",
+
+"StarRating": 5,
+
+
+
+},
+
+{
+
+"HotelId": 3,
+
+"HotelName": "Cosmos",
+
+"HotelAddress": "Pune",
+
+  "StarRating": 3,
+
+
+}
+]
